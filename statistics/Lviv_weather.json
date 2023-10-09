@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2023-10-03",
+    "temperature": 15.5,
+    "description": "Sunny"
+  },
+  {
+    "date": "2023-10-06",
+    "temperature": 11.2,
+    "description": "Patchy rain possible"
+  }
+]
