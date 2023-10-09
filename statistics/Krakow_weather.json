@@ -3,20 +3,5 @@
     "date": "2023-10-03",
     "temperature": 16.7,
     "description": "Patchy rain possible"
-  },
-  {
-    "date": "2023-10-09",
-    "temperature": 14.2,
-    "description": "Partly cloudy"
-  },
-  {
-    "date": "2023-10-06",
-    "temperature": 12,
-    "description": "Moderate rain"
-  },
-  {
-    "date": "2023-10-05",
-    "temperature": 13,
-    "description": "Moderate rain"
   }
 ]
